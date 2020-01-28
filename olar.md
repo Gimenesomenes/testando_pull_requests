@@ -1,7 +1,11 @@
 # Famoz aprenther mergyz utilizando cumprimentos
 
-# Em Ingles
+# Em Espanhol
+hola
+que pasa?
 
+
+# Em Ingles
 hello
 hi
 how you doin?
