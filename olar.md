@@ -1,12 +1,12 @@
-# famoz aprenther mergyz utilizando cumprimentos
+# Famoz aprenther mergyz utilizando cumprimentos
 
-# em ingles
+# Em Ingles
 
 hello
 hi
 how you doin?
 
-# em pt-br
+# Em PT-br
 
 olar
 oi
