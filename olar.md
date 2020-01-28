@@ -1,5 +1,9 @@
 # famoz aprenther mergyz utilizando cumprimentos
 
+# em espanhol
+hola
+que pasa?
+
 # em ingles
 
 hello
